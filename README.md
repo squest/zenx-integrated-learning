@@ -6,9 +6,8 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 
 ### <a href ="https://code.org/quotes" target="_blank">READ THIS FIRST</a>
 
-### And watch this
+### <a href="http://www.youtube.com/watch?v=Ia55clAtdMs" target="_blank">And watch this</a>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Ia55clAtdMs" frameborder="0" allowfullscreen></iframe>
 
 ### Steps to follow:
 
