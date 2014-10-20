@@ -4,6 +4,8 @@ zenx-integrated-learning
 Integrated Fundamentals learning for Zenius-X 2015  
 Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and economics through functional programming in Haskell.  
 
+### <a href ="https://code.org/quotes" target="_blank">READ THIS FIRST</a>
+
 ### Steps to follow:
 
 1. Install haskell platform from <a href="http://www.haskell.org/platform/">This site</a>  
