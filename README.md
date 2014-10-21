@@ -25,7 +25,8 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 
 ### List of you and your github repo for this course:
 
-(This is where you can update this readme directly here)
+(This is where you can update this readme directly here)  
+(You dont have to create a branch/fork to simply upda this readme)
 
 Example:
 
