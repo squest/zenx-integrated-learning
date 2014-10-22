@@ -31,7 +31,7 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 Example:
 
 1. Joni blagoo <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
-2. UBX  <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
+2. UBX  <a href="https://github.com/u-b-x/ini-yazid.git">INi elo </a>
 3. ubay <a href="begobegoan.com">INi gue </a>
 4. Egi Chrisna <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
