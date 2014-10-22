@@ -37,3 +37,4 @@ Example:
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 6. Dhiya Ulhaq <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 7. Fadhil Z <a href="https://github.com/fadhilz/FZ.git"> Repo </a>
+8. Vigo Soambaton <a href="https://github.com/oambaton/oambaton.git"> Repo </a>
