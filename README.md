@@ -35,6 +35,6 @@ Example:
 3. ubay <a href="begobegoan.com">INi gue </a>
 4. Egi Chrisna <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
-6. Dhiya Ulhaq <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
+6. Dhiya Ulhaq <a href="https://github.com/Dhiiyaur/Zen-Repo">Repo</a>
 7. Fadhil Z <a href="https://github.com/fadhilz/FZ.git"> Repo </a>
 8. Yessy Y <a href="https://github.com/yessyysp/FZ.git">Repo</a>
