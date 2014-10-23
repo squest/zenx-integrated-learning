@@ -40,3 +40,4 @@ Example:
 8. Yessy Y <a href="https://github.com/yessyysp/FZ.git">Repo</a>
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
+11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
