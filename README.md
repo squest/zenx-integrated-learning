@@ -41,3 +41,4 @@ Example:
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
 11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
+12. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
