@@ -37,6 +37,7 @@ Example:
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 6. Dhiya Ulhaq <a href="https://github.com/Dhiiyaur/Zen-Repo">Repo</a>
 7. Fadhil Z <a href="https://github.com/fadhilz/FZ.git"> Repo </a>
+<<<<<<< HEAD
 8. Yessy Y <a href="https://github.com/yessyysp/FZ.git">Repo</a>
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
@@ -44,3 +45,6 @@ Example:
 12. Win <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 13. Davin <a href="https://github.com/daviiinnn/dizqar.git">sok asik</a>
 
+=======
+8. Vigo Soambaton <a href="https://github.com/oambaton/oambaton.git"> Repo </a>
+>>>>>>> pr/9
