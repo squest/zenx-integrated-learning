@@ -33,7 +33,6 @@ Example:
 1. Joni blagoo <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 2. UBX  <a href="https://github.com/u-b-x/ini-yazid.git">INi elo </a>
 3. ubay <a href="begobegoan.com">INi gue </a>
-<<<<<<< HEAD
 4. Egi Chrisna <a href="https://github.com/crisna34/roomtry.git">INi siapa?</a> :trollface: :trollface:
 5. Aries Y <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 6. Dhiya Ulhaq <a href="https://github.com/Dhiiyaur/Zen-Repo">Repo</a>
@@ -42,7 +41,7 @@ Example:
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
 11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
-=======
-4. Egi Chrisna <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
-5. Win <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
->>>>>>> pr/5
+12. Win <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
+
+
+
