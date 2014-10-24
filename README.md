@@ -44,6 +44,7 @@ Example:
 >>>>>>> pr/12
 7. Fadhil Z <a href="https://github.com/fadhilz/FZ.git"> Repo </a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 8. Yessy Y <a href="https://github.com/yessyysp/FZ.git">Repo</a>
 <<<<<<< HEAD
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
@@ -62,3 +63,6 @@ Example:
 =======
 12. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
 >>>>>>> pr/22
+=======
+8. Yessy Y <a href="https://github.com/yessyysp">revisi </a>
+>>>>>>> pr/14
