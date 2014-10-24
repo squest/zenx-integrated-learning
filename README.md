@@ -52,3 +52,9 @@ Example:
 14. Vigo Soambaton <a href="https://github.com/oambaton/oambaton.git"> Repo </a>
 15. Aminu Rohman <a href="https://github.com/oman/zenx-integrated-learning">Repo</a>
 16. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
+
+# EXTRA
+
+For those who are playing with Euler, list your friendkey here, and add these keys to yours:
+
+squest 550933_b849d72cb7352cf28e0678a5f9226029
