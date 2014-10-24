@@ -52,6 +52,7 @@ Example:
 14. Vigo Soambaton <a href="https://github.com/oambaton/oambaton.git"> Repo </a>
 15. Aminu Rohman <a href="https://github.com/oman/zenx-integrated-learning">Repo</a>
 16. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
+17. Shofura Tsabita <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
 
 # EXTRA
 
