@@ -61,5 +61,5 @@ For those who are playing with Euler, list your friendkey here, and add these ke
 squest 550933_b849d72cb7352cf28e0678a5f9226029  
 cr_noestra 686814_6e6058d5eac9f9ddee724e5b6fa64540  
 fadhilz 686512_ec5ebf35bfc30a9bf273d9cc967396a2  
-UBX 687056_bbedf004e7d7decb165d4b0fd234c683
+UBX 687056_bbedf004e7d7decb165d4b0fd234c683  
 AriesY 682251_bd64f272319181b90bba9e3510b36201
