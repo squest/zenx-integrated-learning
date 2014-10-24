@@ -9,6 +9,10 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 ### <a href="http://www.youtube.com/watch?v=Ia55clAtdMs" target="_blank">And watch this</a>
 ### <a href="http://www.youtube.com/watch?v=IY7EsTnUSxY" target="_blank">And this</a>
 
+### Youtube playlist for the course
+
+1. 1st session on Haskell <a href="https://www.youtube.com/playlist?list=PLlTjr2CPUG1-2Ajrafgq7Wkd1JbYBMBDb">Oct 22nd 2014</a>
+
 
 ### Steps to follow:
 
