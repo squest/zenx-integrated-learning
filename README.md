@@ -32,7 +32,7 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 ### List of you and your github repo for this course:
 
 (This is where you can update this readme directly here)  
-(You dont have to create a branch/fork to simply upda this readme)
+For those whose name haven't been listed, update this readme asap.
 
 Example:
 
