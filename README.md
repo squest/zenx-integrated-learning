@@ -49,6 +49,7 @@ Example:
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
 11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
+<<<<<<< HEAD
 12. Win <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 13. Davin <a href="https://github.com/daviiinnn/dizqar.git">sok asik</a>
 
@@ -58,3 +59,6 @@ Example:
 =======
 9. Aminu Rohman <a href="https://github.com/oman/zenx-integrated-learning">Repo</a>
 >>>>>>> pr/13
+=======
+12. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
+>>>>>>> pr/22
