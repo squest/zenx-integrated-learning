@@ -58,6 +58,6 @@ Example:
 
 For those who are playing with Euler, list your friendkey here, and add these keys to yours in "friend" part of projecteuler.net
 
-squest 550933_b849d72cb7352cf28e0678a5f9226029
-cr_noestra 686814_6e6058d5eac9f9ddee724e5b6fa64540
-fadhilz 686512_ec5ebf35bfc30a9bf273d9cc967396a2
+squest 550933_b849d72cb7352cf28e0678a5f9226029  
+cr_noestra 686814_6e6058d5eac9f9ddee724e5b6fa64540  
+fadhilz 686512_ec5ebf35bfc30a9bf273d9cc967396a2  
