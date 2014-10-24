@@ -55,6 +55,6 @@ Example:
 
 # EXTRA
 
-For those who are playing with Euler, list your friendkey here, and add these keys to yours:
+For those who are playing with Euler, list your friendkey here, and add these keys to yours in "friend" part of projecteuler.net
 
 squest 550933_b849d72cb7352cf28e0678a5f9226029
