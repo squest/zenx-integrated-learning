@@ -45,6 +45,7 @@ Example:
 7. Fadhil Z <a href="https://github.com/fadhilz/FZ.git"> Repo </a>
 <<<<<<< HEAD
 8. Yessy Y <a href="https://github.com/yessyysp/FZ.git">Repo</a>
+<<<<<<< HEAD
 9. Sonia Capirosi <a href="https://github.com/SoniaCapirosi">Repo</a>
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
 11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
@@ -54,3 +55,6 @@ Example:
 =======
 8. Vigo Soambaton <a href="https://github.com/oambaton/oambaton.git"> Repo </a>
 >>>>>>> pr/9
+=======
+9. Aminu Rohman <a href="https://github.com/oman/zenx-integrated-learning">Repo</a>
+>>>>>>> pr/13
