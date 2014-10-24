@@ -42,6 +42,5 @@ Example:
 10. Gideon Saputra <a href="https://github.com/GideonSaputra/Hello.git">Repo</a>
 11. Dini Nur Anisa <a href="https://github.com/DiniNurAnisa">Repo</a>
 12. Win <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
-
-
+13. Davin <a href="https://github.com/daviiinnn/dizqar.git">sok asik</a>
 
