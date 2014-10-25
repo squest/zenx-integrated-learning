@@ -55,6 +55,7 @@ Example:
 17. Shofura Tsabita <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
 18. Roberto G. Bartle <a href="http://en.wikipedia.org/wiki/Robert_G._Bartle">Cendol gan</a>
 19. Ridho A Pangestu <a href="https://github.com/RidhoAP">Repo</a> 
+20. Gilang Ardya <a href="https://github.com/gilang20/rise-of-repo.git">Click and Go</a>
 
 # EXTRA
 
