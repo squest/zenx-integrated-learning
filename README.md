@@ -53,6 +53,7 @@ Example:
 15. Aminu Rohman <a href="https://github.com/oman/zenx-integrated-learning">Repo</a>
 16. Dea S Putri <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
 17. Shofura Tsabita <a href="https://github.com/deasputri/zenx-integrated-learning">Repo</a>
+18. Roberto G. Bartle <a href="http://en.wikipedia.org/wiki/Robert_G._Bartle">Cendol gan</a>
 
 # EXTRA
 
