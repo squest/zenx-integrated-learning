@@ -24,3 +24,22 @@ sum''' (x:xs) = x + sum''' xs
 
 prod' [] = 1
 prod' (x:xs) = x * prod' xs
+
+sol2 = sum [abs 50+x| x <- [1,3..99]] + sum [abs (50-x)| x <- [2,4..100]]
+
+numcol x
+  | x < 10 = [x]
+  | otherwise = (numcol (div x 10)) ++ [rem x 10]
+
+
+numcol6 x
+  | x < 6 = [x]
+  | otherwise = (numcol6 (div x 6)) ++ [rem x 6]
+
+jumFakDigit n = sum $ map faktorial (numcol n)
+
+sol4 lim = sum $ map jumFakDigit [1..lim]
+
+
+
+
