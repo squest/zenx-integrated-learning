@@ -9,7 +9,7 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 ### <a href="http://www.youtube.com/watch?v=Ia55clAtdMs" target="_blank">And watch this</a>
 ### <a href="http://www.youtube.com/watch?v=IY7EsTnUSxY" target="_blank">And this</a>
 
-### This course is now officially available at <a href="http://wwww.zeniusleague.com">ZeniusLeague.com</a>
+### This course is now officially available at <a href="http://www.zeniusleague.com">ZeniusLeague.com</a>
 
 Note: You have to signup to view the tutorials and works on the exercises.
 
