@@ -55,6 +55,7 @@ Example:
 19. Ridho A Pangestu <a href="https://github.com/RidhoAP">Repo</a> 
 20. Gilang Ardya <a href="https://github.com/gilang20/rise-of-repo.git">Click and Go</a>
 21. Icha Farihah <a href="https://github.com/ichafarihah">Repo</a>
+22. A. Abdul Aziz <a href="https://github.com/Dhiiyaur/Zen-Repo">Repo</a>
 
 # EXTRA
 
