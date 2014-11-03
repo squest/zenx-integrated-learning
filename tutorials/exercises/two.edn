@@ -1,0 +1,24 @@
+Exercises:
+take, drop, init, last, tail, ++, reverse, length
+
+1. fn third element
+2. fn third from last
+3. bagi 2, tempel lagi tapi yang terakhir dibalik
+4. fn (ntake i n ls) (ntake 3 5 [1,2,3,4,5,6..])
+=> [3,4,5,6,7]
+5. fn (first n even numbers) => (even_take n)
+=> even_take 5 => [2,4,6,8,10]
+6. fn (first n kel a) => (nkel a i)
+=> nkel a i => nkel 7 5 => [7,14,21,28,35]
+7. product & sum dari n even numbers, mulai dari i
+=> prod_even 3 5 = [6,8,10,12,14]
+=> sum_even 3 5 = 
+
+Exercise :
+
+1. factors p => factors 20 = [1,2,4,5,10,20]
+2. projecteuler.net => no.1 => jumlah semua kel 3 or 5 dari 1..999
+3. f1 i j => list semua x yang memenuhi syarat 5 < | x+5 | < 20
+4. prima_kah n ?? Num a => a -> Bool
+
+

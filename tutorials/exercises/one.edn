@@ -1,0 +1,85 @@
+Haskell curriculum
+
+1. Haskell REPL as calculator => operators +,-,/,*,div,mod
+2. Basic concept of identity and functions, global scope & local scope using where (gotchas "tab")
+=> gotchas (left to right postulat 3, tab yang bener, identity cuma boleh huruf kecil depannya)
+
+Exercise-1
+- bikin luas lingkaran, jari-jari lingkaran, nyari akar kuadrat, nyari s berdasarkan t
+
+3. Data types => num, bool, string => operators for specific data types (bool && || not)
+4. predicates => algebraic operators that produces boolean (==, >,<,/=)
+=> gotchas (function liat input type and output type)
+
+Exercise-2
+- Bikin function yang ngecheck apakah suatu x (genap, ganjil, kel 3/5, kel 3&5, berada pada rentang tertentu)
+- bikin function utk ngecheck bil neg/pos
+
+5. Conditional evaluation using if and guards => dont forget the tab and identations
+
+Exercise-3
+- Bikin fn untuk nentuin absolute value (mutlak x)
+- bikin fn untuk nentuin akar pers kuadrat (akar a b c x)
+- bikin fn untuk nentuin fungsi bercabang
+- bikin fn perpangkatan yang beda untuk pangkat genap/ganjil (pangkat x n)
+
+6. List and ranges, its type notations => [1,2,3], [1..10], [1,3..10], [5,4..1] => [Int]
+7. fns on lists => head, last, tail, init, reverse, : , ++, take, drop
+
+Exercise-4
+- bikin fn utk ngambil element ke n dari sebuah list (pake head and drop) => (elmn n list)
+- bikin fn utk ngambil element kedua dari terakhir (last2 list)
+- bikin fn utk ngambil n element starting from i-th position (ntake n i ls)
+- bikin fn utk ngambil n first even positive integers (pake infinite list)
+- bikin fn utk ngambil n first kelipatan a
+
+8. More fns on lists => sum, product, sort, length
+
+Exercise-5
+- bikin fn utk jumlahin n first kelipatan a & b
+- bikin fn utk jumlahin n first keliatan a or b
+- bikin fn utk nyari faktorial n => pake product dan guards 0! = 1
+
+9. List comprehensions basic => [result | domain , predicates]
+
+Exercise-6
+- bikin fn yg bikin [1,2,3,4..] => [1,3,5,7,2,4,6,8]
+- bikin fn yg isinya kumpulan kuadrat
+- bikin fn yg isinya kumpulan 2^n
+- bikin infinite list yg isinya daftar genap kelipatan 7 atau 5
+- bikin fn (faktor n) yg inputnya suatu pos integer, outputnya list of n factors
+
+10. Introduction to type classes
+11. Basic recursion
+
+Exercise-7
+
+- reimplement sum, product, take, init, last, fak, drop, and other haskell functions
+- reimplement length, tail, average, nub
+
+12. Pattern matching and recursions
+
+Exercise-8
+
+- Rewrite those functions using pattern matching
+
+13. Tail-recursion with accumulator
+
+Exercise-9
+
+- Function to sum, product, gathering kel-a, calculating length, fibonacci
+
+14. Introduction to problem solving involving recursion
+
+- Prime-checking algorithm
+- fibonacci
+- exponent
+- [1 1] => [1 2 1] => [1 3 3 1]
+
+15. Higher order function => map, filter, foldl, takeWhile, dropWhile, sortBy, groupBy
+
+Exercise-10
+
+- efficient summation of fibonacci list
+
+
