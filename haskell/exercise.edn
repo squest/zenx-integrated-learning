@@ -1,0 +1,9 @@
+
+Re-implement these functions:
+
+head, tail, cons :, append ++
+
+take, drop, product, init, last, reverse, head, tail
+(delete1 e ls), (deleteAll e ls), length, concat, splitAt, elem, notElem, (sempilin n i ls)
+
+: ++ 
