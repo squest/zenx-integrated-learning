@@ -11,7 +11,7 @@ Learning Thinking, logic, set theory, problem-solving, mathematics, physics, and
 
 ### This course is now officially available at <a href="http://www.zeniusleague.com">ZeniusLeague.com</a>
 
-Note: You have to signup to view the tutorials and works on the exercises.
+Note: You have to signup to view the tutorials and works on the exercises
 
 
 ### Steps to follow:
